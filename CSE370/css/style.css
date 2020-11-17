@@ -1,0 +1,85 @@
+header{
+	padding: 32px;
+	height: 100px;
+}
+header h1{
+	color:#696969;
+	font-size: 50px;
+}
+.heading{
+	background: url(../img/cover.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-height:100px;
+
+}
+.content-one h1{
+	text-align: center;
+	color: white;
+	font-size: 75px;
+}
+.content-two{
+	padding:15px;
+	padding: 50px; 
+}
+.btn.btn-outline-secondary{
+	background: transparent;
+    border: 2px solid #15a4fa;
+    color: white;
+    display: block;
+    width: 100px;
+    height: 50px;
+    /*margin-right: 50%;*/
+    /*margin:  50%;*/
+}
+.posts{
+	background-color: #f6f9f9;
+	padding: 40px;
+}
+.content-three h2{
+	text-align: center;
+	font-size:  60px;
+	/*padding-bottom: 60px;*/
+	/*color: #696969;*/
+}
+.search-bar{
+	width: 100px;
+}
+/*.content-three{
+	padding-bottom: 60px;
+}*/
+.content-four{
+	padding:  50px;
+}
+table{
+	 border-collapse: collapse;
+  width: 100%;
+}
+td,th{
+	text-align: left;
+	padding: 10px;
+	font-size: 20px;
+
+	border: 1px solid #dddddd;
+  /*text-align: left;*/
+  /*padding: 8px;*/
+
+}/*
+.content-five th{
+padding-top: 10px;
+}*/
+.content-five{
+	padding: 10px;
+}
+
+.btn {
+    /* margin: 80px 130px; */
+    background: transparent;
+    border: 2px solid #15a4fa;
+    color: white;
+    display: block;
+    margin: 50px auto;
+    padding: 10px 30px;
+    text-align: center;
+}
